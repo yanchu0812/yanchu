@@ -8,20 +8,6 @@
             "JD代挂群",
         ],
         "mapping": {
-            "点我快速抓包页面": {
-                "url": "tbopen://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fmain.m.taobao.com%2Fmytaobao%2Findex.html"
-            },
-            "教程": {
-                "list": [
-                    "获取CK图文教程"
-                ],
-                "mapping": {
-                    "获取CK图文教程": {
-                        "type": "jiaocheng",
-                        "value": "1"
-                    }
-                }
-            },
             "超级红包攒能量会场任务": {
                 "url": "taobao://m.tb.cn/h.5SwZYmV"
             },
