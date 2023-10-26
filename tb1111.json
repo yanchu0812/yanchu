@@ -17,6 +17,16 @@
                     }
                 }
             },
+            "超级红包攒能量会场任务": {
+                "url": "taobao://m.tb.cn/h.5SwZYmV"
+            },
+            "去我的小店看看": {
+                "url": "https://kzurl05.cn/8ZpLz"
+            },
+            "获取CK图文教程": {
+                "type": "jiaocheng",
+                "value": "1"
+            },
             "开始任务": {
                 "type": "task",
                 "key": [
