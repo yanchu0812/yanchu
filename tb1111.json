@@ -95,10 +95,10 @@
             },
             "JD代挂Q群": {
                 "list": [
-                    "JD代挂Q群",
+                    "JD代挂 Q群",
                 ],
                 "mapping": {
-                    "JD代挂Q群": {
+                    "JD代挂 Q群": {
                         "url": "mqqapi://card/show_pslcard?src_type=internal&version=1&uin=947803095&card_type=group&source=qrcode"
                     }
                 }
