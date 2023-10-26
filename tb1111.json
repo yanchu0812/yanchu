@@ -120,20 +120,6 @@
         "taskList": [
             "种树"
         ]
-                    },
-                    "填写COOKIE开始运行": {
-                        "type": "cookie"
-                    },
-                    "取cookie教程": {
-                        "type": "jiaocheng",
-                        "value": "1"
-                    }
-                }
-            }
-        },
-        "taskList": [
-            "种树"
-        ]
     },
     "taskData": {
         "tag": "tm1111",
