@@ -1,0 +1,144 @@
+{
+    "endPage": "taobao://m.tb.cn/h.5SwZYmV",
+    "tag": "tm1111",
+    "activity": {
+        "tip": "切记cookie账户和app账户是一个账户\n---------------\n一个手机不能运行超过三个账号\n---------------\n持久化模式可以添加多个账号\n---------------\n持久化模式需要下载 Scriptable 没有的下载一下",
+        "list": [
+            "运行任务-持久化模式ios14+",
+            "手动填ck运行",
+            "获取CK图文教程",
+            "添加或删除ck持久化账号",
+        ],
+        "mapping": {
+            "不会的点我看教程": {
+                "list": [
+                    "获取CK图文教程"
+                ],
+                "mapping": {
+                    "ck持久化教程": {
+                        "value": "1"
+                    },
+                    "免登录获取CK图文教程": {
+                        "type": "jiaocheng",
+                        "value": "1"
+                    }
+                }
+            },
+            "运行任务-持久化模式ios14+": {
+                "type": "runList",
+                "value": "1"
+            },
+            "添加或删除ck持久化账号": {
+                "list": [
+                    "添加持久化账号-可添加多个",
+                    "删除全部账号"
+                ],
+                "mapping": {
+                    "添加持久化账号-可添加多个": {
+                        "type": "shoudong",
+                        "value": "1"
+                    },
+                    "删除全部账号": {
+                        "type": "delck",
+                        "value": "1"
+                    }
+                }
+            },
+            "开始任务": {
+                "type": "task",
+                "key": [
+                    "种树"
+                ]
+            },
+            "任务入口": {
+                "list": [
+                    "淘宝",
+                    "天猫",
+                    "点淘"
+                ],
+                "mapping": {
+                    "淘宝": {
+                        "url": "taobao://pages.tmall.com/wow/z/hdwk/20220618/gamehome?disableNav=YES"
+                    },
+                    "天猫": {
+                        "url": "tmall://page.tm/appLink?&action=ali.open.nav&h5Url=https%3A%2F%2Fpages.tmall.com%2Fwow%2Fz%2Fhdwk%2F20220618%2Fgamehome%3FdisableNav%3DYES"
+                    },
+                    "点淘": {
+                        "url": "taobaoliveshare://pages.tmall.com/wow/z/hdwk/20220618/gamehome?disableNav=YES"
+                    }
+                }
+            },
+            "手动填ck运行": {
+                "tip": "cookie模式是用自己的数据跑任务\n优点是过风险检测\n-----------------------\n不会取cookie的点下面的获取cookie\n-----------------------\n使用cookie模式请确保下载捷径的途径是安全的\n-----------------------\n 快速去页面APP版本无需登录 \n-----------------------\n",
+                "list": [
+                    "填写COOKIE开始运行",
+                    "取cookie教程"
+                ],
+                "mapping": {
+                    "运行正常模式，支持多账号": {
+                        "type": "task",
+                        "key": [
+                            "种树"
+                        ]
+                    },
+                    "填写COOKIE开始运行": {
+                        "type": "cookie"
+                    },
+                    "取cookie教程": {
+                        "type": "jiaocheng",
+                        "value": "1"
+                    },
+                }
+            }
+        },
+        "taskList": [
+            "种树"
+        ]
+    },
+    "taskData": {
+        "tag": "tm1111",
+        "common": {
+            "url": "https://gitcode.net/jiutiao/updatejson/-/raw/master/auto/common/tb.txt",
+            "c": "https://gitcode.net/jiutiao/updatejson/-/raw/master/auto/common/tbck.txt"
+        },
+        "种树": {
+            "type": "task1",
+            "endpage": "taobao://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fm.taobao.com",
+            "main": "taobao://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fm.taobao.com",
+            "endMessage": "种树任务结束",
+            "task": {
+                "tag": "tm1111",
+                "scheme": "taobao://m.taobao.com/tbopen/index.html?h5Url=",
+                "baseurl": "://商品定位.m.tmall.com?deliveryId=占位参数1&sceneId=6609&hd_from_id=100189&fromToken=eP1w8QGUOexjRMbZu8DKHMgpc6UGUgUXUJ&implId=占位参数2",
+                "ckurl": "://商品定位.m.tmall.com?sceneId=6609&hd_from_id=100189",
+                "ckitemUrl": "://商品定位.m.tmall.com?deliveryId=占位参数1&sceneId=6609&hd_from_id=100189&implId=占位参数2",
+                "wait": 23,
+                "wait2": "",
+                "param": {
+                    "商品定位": [
+                        "nike",
+                        "anta",
+                        "dior",
+                        "biotherm",
+                        "oppo"
+                    ]
+                },
+                "before": [],
+                "ckItem": [],
+                "outItem": [
+                    "56450",
+                    "55772",
+                    "55942",
+                    "56628"
+                ],
+                "item": []
+            }
+        }
+    },
+    "tbck": {
+        "script": "1",
+        "_m_h5_tk": "e248f084e24012bf9dcfae4e362e74b2_1667300021894",
+        "_m_h5_tk_enc": "ca77a700b5154f245cbb700d1a4f6327"
+    },
+    "urlArr": []
+}
