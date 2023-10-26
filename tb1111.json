@@ -5,6 +5,7 @@
         "tip": "零食自由🍪版  TB1111\n---------------\n仅供学习，下载后请于24小时内删除\n---------------",
         "list": [
             "填ck运行",
+            "JD代挂群"
         ],
         "mapping": {
             "点我快速抓包页面": {
@@ -89,6 +90,16 @@
                     },
                     "点淘": {
                         "url": "taobaoliveshare://pages.tmall.com/wow/z/hdwk/20220618/gamehome?disableNav=YES"
+                    }
+                }
+            },
+            "JD代挂Q群": {
+             "list": [
+           "JD代挂 Q群",
+                ],
+               "mapping": {
+             "JD代挂 Q群": {
+                        "url": "mqqapi://card/show_pslcard?src_type=internal&version=1&uin=947803095&card_type=group&source=qrcode"
                     }
                 }
             },
