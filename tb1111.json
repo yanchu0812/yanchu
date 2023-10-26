@@ -95,13 +95,30 @@
                 "list": [
                     "填写COOKIE开始运行",
                     "取cookie教程",
+                    "点我快速去登录页面web版",
+                    "点我快速抓去页面APP版"
                 ],
                 "mapping": {
-                    "运行正常模式，支持多账号": {
-                        "type": "task",
                         "key": [
                             "种树"
                         ]
+                    },
+                    "填写COOKIE开始运行": {
+                        "type": "cookie"
+                    },
+                    "取cookie教程": {
+                        "type": "jiaocheng",
+                        "value": "1"
+                    },
+                    "点我快速抓去页面APP版": {
+                        "url": "tbopen://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fmain.m.taobao.com%2Fmytaobao%2Findex.html"
+                    }
+                }
+            }
+        },
+        "taskList": [
+            "种树"
+        ]
                     },
                     "填写COOKIE开始运行": {
                         "type": "cookie"
