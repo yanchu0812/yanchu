@@ -2,10 +2,9 @@
     "endPage": "taobao://m.tb.cn/h.5SwZYmV",
     "tag": "tm1111",
     "activity": {
-        "tip": "零食自由🍪版  TB1111\n---------------\n仅供学习，下载后请于24小时内删除\n---------------",
+        "tip": "零食自由🍪版  TB1111\n---------------\n仅供学习，下载后请于24小时内删除\n---------------\nJD代挂群：947803095 \n---------------",
         "list": [
-            "填ck运行",
-            "JD代挂群"
+            "填ck运行"
         ],
         "mapping": {
             "点我快速抓包页面": {
@@ -90,16 +89,6 @@
                     },
                     "点淘": {
                         "url": "taobaoliveshare://pages.tmall.com/wow/z/hdwk/20220618/gamehome?disableNav=YES"
-                    }
-                }
-            },
-            "JD代挂Q群": {
-             "list": [
-           "JD代挂 Q群",
-                ],
-               "mapping": {
-             "JD代挂 Q群": {
-                        "url": "https://qm.qq.com/cgi-bin/qm/qr?k=KldgHrFVN1jb_y_GAuC-FGsZXclFtm6t&jump_from=webapi&authKey=qmRTq88uVPcE0ZCY55cjZKvLHt8HBAN+bB4IchXftA8Pqos0AKke60UTXWa/Dedi"
                     }
                 }
             },
