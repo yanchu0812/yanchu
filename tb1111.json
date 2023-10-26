@@ -99,7 +99,7 @@
                 ],
                 "mapping": {
                     "JD代挂 Q群": {
-                        "url": "mqqapi://card/show_pslcard?src_type=internal&version=1&uin=947803095&card_type=group&source=qrcode"
+                        "url": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Wexw_ySpQqYCBTFE13AIQrA2trzmGNKe&authKey=jjcU%2FmSHWRA8KkR2LgLqFcznnCq9lDFwRpyPCWd1g7erc5pDphiWlCrxNnwRtrTZ&noverify=0&group_code=947803095"
                     }
                 }
             },
