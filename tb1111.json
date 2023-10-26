@@ -5,9 +5,23 @@
         "tip": "零食自由🍪版  TB1111\n---------------\n仅供学习，下载后请于24小时内删除\n---------------",
         "list": [
             "手动填ck运行",
-            "JD代挂群",
+            "JD代挂群"
         ],
         "mapping": {
+            "点我快速抓包页面": {
+                "url": "tbopen://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fmain.m.taobao.com%2Fmytaobao%2Findex.html"
+            },
+            "不会的点我看教程": {
+                "list": [
+                    "获取CK图文教程"
+                ],
+                "mapping": {
+                    "获取CK图文教程": {
+                        "type": "jiaocheng",
+                        "value": "1"
+                    }
+                }
+            },
             "超级红包攒能量会场任务": {
                 "url": "taobao://m.tb.cn/h.5SwZYmV"
             },
@@ -79,16 +93,16 @@
                     }
                 }
             },
-            "JD代挂群": {
+            "JD代挂Q群": {
                 "list": [
-                    "JD代挂群",
+                    "JD代挂Q群",
                 ],
                 "mapping": {
-                    "交流·反馈 qq群": {
+                    "JD代挂Q群": {
                         "url": "mqqapi://card/show_pslcard?src_type=internal&version=1&uin=947803095&card_type=group&source=qrcode"
                     }
                 }
-            }
+            },
             "填ck运行": {
                 "tip": "cookie模式是用自己的数据跑任务\n优点是过风险检测\n-----------------------\n不会取cookie的点下面的获取cookie\n-----------------------",
                 "list": [
@@ -106,7 +120,7 @@
                     "填写COOKIE开始运行": {
                         "type": "cookie"
                     },
-                    "取COOKIE教程": {
+                    "取cookie教程": {
                         "type": "jiaocheng",
                         "value": "1"
                     },
